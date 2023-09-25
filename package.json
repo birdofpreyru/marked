@@ -27,10 +27,10 @@
     "./bin/marked": "./bin/marked.js",
     "./package.json": "./package.json"
   },
-  "repository": "git://github.com/markedjs/marked.git",
+  "repository": "git://github.com/birdofpreyru/marked.git",
   "homepage": "https://marked.js.org",
   "bugs": {
-    "url": "http://github.com/markedjs/marked/issues"
+    "url": "http://github.com/birdofpreyru/marked/issues"
   },
   "license": "MIT",
   "keywords": [

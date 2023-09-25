@@ -2,14 +2,20 @@
   <img width="60px" height="60px" src="https://marked.js.org/img/logo-black.svg" align="right" />
 </a>
 
-# Marked
+# Marked (Unofficial Build for Older Environments)
 
-[![npm](https://badgen.net/npm/v/marked)](https://www.npmjs.com/package/marked)
-[![gzip size](https://badgen.net/badgesize/gzip/https://cdn.jsdelivr.net/npm/marked/marked.min.js)](https://cdn.jsdelivr.net/npm/marked/marked.min.js)
-[![install size](https://badgen.net/packagephobia/install/marked)](https://packagephobia.now.sh/result?p=marked)
-[![downloads](https://badgen.net/npm/dt/marked)](https://www.npmjs.com/package/marked)
-[![github actions](https://github.com/markedjs/marked/workflows/Tests/badge.svg)](https://github.com/markedjs/marked/actions)
-[![snyk](https://snyk.io/test/npm/marked/badge.svg)](https://snyk.io/test/npm/marked)
+[![Latest NPM Release](https://img.shields.io/npm/v/@dr.pogodin/marked.svg)](https://www.npmjs.com/package/@dr.pogodin/marked)
+[![NPM Downloads](https://img.shields.io/npm/dm/@dr.pogodin/marked.svg)](https://www.npmjs.com/package/@dr.pogodin/marked)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/birdofpreyru/marked/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/birdofpreyru/marked)
+[![GitHub Repo stars](https://img.shields.io/github/stars/birdofpreyru/marked?style=social)](https://github.com/birdofpreyru/marked)
+[![Dr. Pogodin Studio](.README/logo-dr-pogodin-studio.svg)](https://dr.pogodin.studio)
+
+> _This is an unofficial fork of [marked](https://www.npmjs.com/package/marked)
+> library, built for ES2017 target, instead of ES2022, thus supporting older
+> environments. Otherwise, it is an exact copy of the upstream. It is published
+> to NPM as [@dr.pogodin/marked](https://www.npmjs.com/package/@dr.pogodin/marked)._
+
+**&mdash; BELOW THIS POINT IS THE ORIGINAL MARKED DOCUMENTATION &mdash;**
 
 - ⚡ built for speed
 - ⬇️ low-level compiler for parsing markdown without caching or blocking for long periods of time
